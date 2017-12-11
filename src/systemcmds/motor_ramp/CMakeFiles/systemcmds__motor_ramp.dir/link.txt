@@ -1,0 +1,2 @@
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ar qc libsystemcmds__motor_ramp.a  CMakeFiles/systemcmds__motor_ramp.dir/motor_ramp.cpp.obj
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ranlib libsystemcmds__motor_ramp.a

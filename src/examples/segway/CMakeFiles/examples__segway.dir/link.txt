@@ -1,0 +1,2 @@
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ar qc libexamples__segway.a  CMakeFiles/examples__segway.dir/blocks.cpp.obj CMakeFiles/examples__segway.dir/segway_main.cpp.obj CMakeFiles/examples__segway.dir/BlockSegwayController.cpp.obj CMakeFiles/examples__segway.dir/params.c.obj
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ranlib libexamples__segway.a

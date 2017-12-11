@@ -1,0 +1,2 @@
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ar qc libmodules__sdlog2.a  CMakeFiles/modules__sdlog2.dir/sdlog2.c.obj CMakeFiles/modules__sdlog2.dir/logbuffer.c.obj
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ranlib libmodules__sdlog2.a

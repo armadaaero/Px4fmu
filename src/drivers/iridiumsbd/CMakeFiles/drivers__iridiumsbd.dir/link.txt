@@ -1,0 +1,2 @@
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ar qc libdrivers__iridiumsbd.a  CMakeFiles/drivers__iridiumsbd.dir/IridiumSBD.cpp.obj CMakeFiles/drivers__iridiumsbd.dir/iridiumsbd_params.c.obj
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ranlib libdrivers__iridiumsbd.a

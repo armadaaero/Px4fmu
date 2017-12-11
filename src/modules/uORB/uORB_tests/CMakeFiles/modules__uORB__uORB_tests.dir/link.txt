@@ -1,0 +1,2 @@
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ar qc libmodules__uORB__uORB_tests.a  CMakeFiles/modules__uORB__uORB_tests.dir/uORB_tests_main.cpp.obj CMakeFiles/modules__uORB__uORB_tests.dir/uORBTest_UnitTest.cpp.obj
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ranlib libmodules__uORB__uORB_tests.a

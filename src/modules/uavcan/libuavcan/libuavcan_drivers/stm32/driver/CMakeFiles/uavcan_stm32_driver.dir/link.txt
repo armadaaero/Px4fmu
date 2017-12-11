@@ -1,0 +1,2 @@
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ar qc libuavcan_stm32_driver.a  CMakeFiles/uavcan_stm32_driver.dir/src/uc_stm32_can.cpp.obj CMakeFiles/uavcan_stm32_driver.dir/src/uc_stm32_clock.cpp.obj CMakeFiles/uavcan_stm32_driver.dir/src/uc_stm32_thread.cpp.obj
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ranlib libuavcan_stm32_driver.a

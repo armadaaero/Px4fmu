@@ -1,0 +1,2 @@
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ar qc libdrivers__bmp280.a  CMakeFiles/drivers__bmp280.dir/bmp280_spi.cpp.obj CMakeFiles/drivers__bmp280.dir/bmp280_i2c.cpp.obj CMakeFiles/drivers__bmp280.dir/bmp280.cpp.obj
+/home/intrepid/gcc-arm-none-eabi-5_4-2016q2/bin/arm-none-eabi-ranlib libdrivers__bmp280.a
