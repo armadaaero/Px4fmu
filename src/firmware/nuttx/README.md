@@ -5,4 +5,5 @@ The new airframe named "Aurora VTOL" then will be available in the user interfac
 If not it can be forcible added by setting these two parameters in your ground control station:
 
 SYS_AUTOSTART to the index of airframe 13014
+
 SYS_AUTOCONFIG to 1
